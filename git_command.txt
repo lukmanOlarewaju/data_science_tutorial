@@ -6,3 +6,10 @@ git branch -M main
 git push -u origin main
 
 c:\Program Files\Git\bin
+git config --global user.email "olarewajulukman8@gmail.com"
+git config --global user.name "lukman.olarewaju"
+
+Subsquently:
+git add .   #All the files with changes will be staged. This command is to stage your changes
+git commit -m "first commit"
+git push
